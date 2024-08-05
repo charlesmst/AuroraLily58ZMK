@@ -10,7 +10,7 @@ Base Keymap can be found here by minusfive: https://github.com/minusfive/zmk-con
 Left side has niceview and left side currently has 35mm Cirque trackpad.  
 
 ## Cirque Touchpad
-See cirque branch for code adapted from Mr-turing's repo to make the track work on ZMK: https://github.com/Mr-Turing/zmk-soflechoc
+See cirque branch for code adapted from Mr-turing's repo to make the trackpad work on ZMK: https://github.com/Mr-Turing/zmk-soflechoc
 
 As well as used badjeff's zmk base (branch: feat/pointers-move-scroll) and cirque input module: https://github.com/badjeff (See west.yml for all repo's used for building)
 
