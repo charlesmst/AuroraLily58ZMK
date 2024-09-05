@@ -1,7 +1,5 @@
 #include "corne.dtsi"
 
-# &nice_view_spi { cs-gpios = <&pro_micro 0 GPIO_ACTIVE_HIGH>; };
-
 / {
     /* define virtual input, will be resurrected for emitting input event */
 	/* NOTE: set `device = <&glidepoint1>` in `zmk,input-listener` */
