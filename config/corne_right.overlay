@@ -1,4 +1,4 @@
-#include "splitkb_aurora_lily58.dtsi"
+#include "corne.dtsi"
 
 &i2c0 {
     status = "okay";
