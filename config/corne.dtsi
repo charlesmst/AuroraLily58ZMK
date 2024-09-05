@@ -13,6 +13,7 @@
     };
 };
 
+
 / {
 	/* assign `input-listener` to all pointing devices */
 	/* &glidepoint0 on central, &glidepoint1 on peripheral */
