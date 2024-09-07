@@ -4,6 +4,9 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: badjeff
       url-base: https://github.com/badjeff
+
+    - name: charlesmst
+      url-base: https://github.com/charlesmst
   projects:
     - name: zmk
       remote: badjeff
@@ -25,7 +28,7 @@ manifest:
       remote: badjeff
       revision: main
     - name: cirque-input-module
-      remote: badjeff
+      remote: charlesmst
       revision: main
   self:
     path: config
